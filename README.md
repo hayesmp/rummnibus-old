@@ -1,8 +1,3 @@
-# rumm Omnibus project
-
-This project creates full-stack platform-specific packages for
-`rumm`!
-
 ## Installation
 
 We'll assume you have Ruby 1.9+ and Bundler installed. First ensure all
@@ -22,7 +17,7 @@ You create a platform-specific package using the `build project` command:
 $ bin/omnibus build project rumm
 ```
 
-####Note: Debian systems may require the 'build-essential' package be installed in order
+#### Note: Debian systems may require the 'build-essential' package be installed in order
 to build.
 
 The platform/architecture type of the package created will match the platform
