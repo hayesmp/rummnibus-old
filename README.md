@@ -22,6 +22,9 @@ You create a platform-specific package using the `build project` command:
 $ bin/omnibus build project rumm
 ```
 
+####Note: Debian systems may require the 'build-essential' package be installed in order
+to build.
+
 The platform/architecture type of the package created will match the platform
 where the `build project` command is invoked. So running this command on say a
 MacBook Pro will generate a Mac OS X specific package. After the build
