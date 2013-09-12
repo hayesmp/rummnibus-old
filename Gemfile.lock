@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/hayesmp/omnibus-ruby.git
-  revision: 7bcac227de5298f25aef71a22eed2ffe93fe2ee4
+  revision: bc73922706aa2d461de93b3bce72681e19ad4f93
   branch: master
   specs:
     omnibus (1.2.0)
@@ -47,7 +47,7 @@ GEM
     http_parser.rb (0.5.3)
     ipaddress (0.8.0)
     json (1.8.0)
-    mime-types (1.24)
+    mime-types (1.25)
     mixlib-cli (1.3.0)
     mixlib-config (1.1.2)
     mixlib-log (1.6.0)
